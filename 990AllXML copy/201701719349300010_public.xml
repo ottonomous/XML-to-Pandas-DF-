@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-06-20T10:40:57-04:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>475529483</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>FREY &amp; CO CPAS LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>121 N BEST AVE SUITE 2</AddressLine1Txt>
+        <CityNm>WALNUTPORT</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>18088</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>232258826</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CARBON COUNTY BAR ASSOCIATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CARB</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>811 BLAKESLEE BLVD DR E SUITE 130</AddressLine1Txt>
+        <CityNm>LEHIGHTON</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>18235</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>GERALD F STRUBINGER JR</PersonNm>
+      <PersonTitleTxt>CHANCELLOR</PersonTitleTxt>
+      <PhoneNum>6103794950</PhoneNum>
+      <SignatureDt>2017-05-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GARY A FREY CPA</PreparerPersonNm>
+      <PTIN>P00005403</PTIN>
+      <PhoneNum>6107608920</PhoneNum>
+      <PreparationDt>2017-06-20</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>70.44.102.103</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2017-06-20</IPDt>
+      <IPTm>11:05:40</IPTm>
+      <FederalOriginalSubmissionId>2435752017171cuf1vwz</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2017-06-20</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>165715D3C9A9B74A5DA5ED22AE334C1ABACDAFC8</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>165715D3C9A9B74A5DA5ED22AE334C1ABACDAFC8</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990 documentId="IRS990">
+      <PrincipalOfficerNm>GERALD F STRUBINGER JR</PrincipalOfficerNm>
+      <GrossReceiptsAmt>207350</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501cInd organization501cTypeTxt="6">X</Organization501cInd>
+      <WebsiteAddressTxt>WWW.CARBONBAR.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1984</FormationYr>
+      <LegalDomicileStateCd>PA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>ORGANIZED FOR THE PURPOSE OF PUBLISHING LAW JOURNALS AS WELL AS PROVIDING CONTINUING EDUCATION AND VARIOUS OTHER SERVICES TO ATTORNEYS IN CARBON COUNTY</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>13</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>13</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>3</TotalEmployeeCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>38628</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>36569</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>166661</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>137290</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>419</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>33402</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>178</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>89</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>205886</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>207350</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>1250</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>3250</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>33854</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>35490</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>132341</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>141135</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>167445</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>179875</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>38441</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>27475</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>467267</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>493766</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>23791</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>22815</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>443476</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>470951</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>ORGANIZED FOR THE PURPOSE OF PUBLISHING LAW JOURNALS AS WELL AS PROVIDING CONTINUING EDUCATION AND VARIOUS OTHER SERVICES TO ATTORNEYS IN CARBON COUNTY</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>172496</ExpenseAmt>
+      <RevenueAmt>173859</RevenueAmt>
+      <Desc>PUBLISHING LAW JOURNALS AND PROVIDING CONTINUING EDUCATION AND VARIOUS OTHER SERVICES TO ATTORNEYS</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>3250</ExpenseAmt>
+        <Desc>AWARDING SCHOLARSHIPS TO COLLEGE FRESHMEN FROM CARBON COUNTY PENNSYLVANIA WHO PROMOTE GOOD CITIZENSHIP AND LEADERSHIP SKILLS</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <TotalProgramServiceExpensesAmt>175746</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind>false</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>false</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+      <ConservationEasementsInd>false</ConservationEasementsInd>
+      <CollectionsOfArtInd>false</CollectionsOfArtInd>
+      <CreditCounselingInd>false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd>false</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="990D">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd>false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd>false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd>false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="990D">true</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd>false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="990D">true</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd>false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>false</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>3</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>13</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>13</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>true</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>true</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>true</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>false</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>false</ConflictOfInterestPolicyInd>
+      <WhistleblowerPolicyInd>false</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>false</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>false</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>PA</StatesWhereCopyOfReturnIsFldCd>
+      <OtherWebsiteInd>X</OtherWebsiteInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>CORPORATION</PersonNm>
+        <PhoneNum>6103794950</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>811 BLAKESLEE BLD DR E SUITE 130</AddressLine1Txt>
+          <CityNm>LEHIGHTON</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>18235</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>GERALD F STRUBINGER JR</PersonNm>
+        <TitleTxt>CHANCELLOR</TitleTxt>
+        <AverageHoursPerWeekRt>3.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KEITH PAVLACK</PersonNm>
+        <TitleTxt>FIRST VICE CHANCELLOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHAEL GREEK</PersonNm>
+        <TitleTxt>SECOND VICE CHANCELLOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KIM GILLEN</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>VINCENT GARVEY</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CYNTHIA YURCHAK</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHAEL OZALAS</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JAMES WIMMER</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>WILLIAM SCHWAB</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CYNTHIA DYRDA-HATTON</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ADAM WEAVER</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JENNY CHENG</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>VICTORIA OPTHOF</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <MembershipDuesAmt>36569</MembershipDuesAmt>
+      <TotalContributionsAmt>36569</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>JOURNAL SUBSCRIPTIONS</Desc>
+        <BusinessCd>511120</BusinessCd>
+        <TotalRevenueColumnAmt>137290</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>137290</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>137290</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>33402</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>33402</RelatedOrExemptFuncIncomeAmt>
+      </InvestmentIncomeGrp>
+      <GrossRentsGrp>
+        <RealAmt>89</RealAmt>
+      </GrossRentsGrp>
+      <RentalIncomeOrLossGrp>
+        <RealAmt>89</RealAmt>
+      </RentalIncomeOrLossGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>89</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>89</RelatedOrExemptFuncIncomeAmt>
+      </NetRentalIncomeOrLossGrp>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>207350</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>170781</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>0</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>3250</TotalAmt>
+        <ProgramServicesAmt>3250</ProgramServicesAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>32554</TotalAmt>
+        <ProgramServicesAmt>32554</ProgramServicesAmt>
+      </OtherSalariesAndWagesGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>2936</TotalAmt>
+        <ProgramServicesAmt>2936</ProgramServicesAmt>
+      </PayrollTaxesGrp>
+      <AdvertisingGrp>
+        <TotalAmt>697</TotalAmt>
+        <ProgramServicesAmt>697</ProgramServicesAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>3662</TotalAmt>
+        <ProgramServicesAmt>3662</ProgramServicesAmt>
+      </OfficeExpensesGrp>
+      <OccupancyGrp>
+        <TotalAmt>8946</TotalAmt>
+        <ProgramServicesAmt>8946</ProgramServicesAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>848</TotalAmt>
+        <ProgramServicesAmt>848</ProgramServicesAmt>
+      </TravelGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>29319</TotalAmt>
+        <ProgramServicesAmt>29319</ProgramServicesAmt>
+      </ConferencesMeetingsGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>2350</TotalAmt>
+        <ProgramServicesAmt>2350</ProgramServicesAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>1268</TotalAmt>
+        <ProgramServicesAmt>1268</ProgramServicesAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>SEE STATEMENT OTHER EXPENSE</Desc>
+        <TotalAmt>94045</TotalAmt>
+        <ProgramServicesAmt>89916</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>4129</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>179875</TotalAmt>
+        <ProgramServicesAmt>175746</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>4129</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>147369</BOYAmt>
+        <EOYAmt>166970</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>62716</BOYAmt>
+        <EOYAmt>39830</EOYAmt>
+      </AccountsReceivableGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>695</BOYAmt>
+        <EOYAmt>695</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>25333</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>21203</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>6480</BOYAmt>
+        <EOYAmt>4130</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>250007</BOYAmt>
+        <EOYAmt>282141</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>467267</BOYAmt>
+        <EOYAmt>493766</EOYAmt>
+      </TotalAssetsGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>23266</BOYAmt>
+        <EOYAmt>22387</EOYAmt>
+      </DeferredRevenueGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>525</BOYAmt>
+        <EOYAmt>428</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>23791</BOYAmt>
+        <EOYAmt>22815</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>443476</BOYAmt>
+        <EOYAmt>470951</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>443476</BOYAmt>
+        <EOYAmt>470951</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>467267</BOYAmt>
+        <EOYAmt>493766</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>27475</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>true</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>false</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleD documentId="990D">
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>25333</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>21203</DepreciationAmt>
+        <BookValueAmt>4130</BookValueAmt>
+      </EquipmentGrp>
+      <TotalBookValueLandBuildingsAmt>4130</TotalBookValueLandBuildingsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>PAYROLL LIABILITIES</Desc>
+        <Amt>428</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>428</TotalLiabilityAmt>
+      <TotalRevEtcAuditedFinclStmtAmt>207350</TotalRevEtcAuditedFinclStmtAmt>
+      <RevenueSubtotalAmt>207350</RevenueSubtotalAmt>
+      <TotalRevenuePerForm990Amt>207350</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>179875</TotExpnsEtcAuditedFinclStmtAmt>
+      <ExpensesSubtotalAmt>179875</ExpensesSubtotalAmt>
+      <TotalExpensesPerForm990Amt>179875</TotalExpensesPerForm990Amt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="990O">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Members or stockholder classes and rights Part VI line 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ASSOCIATION IS MADE OF UP REGULAR MEMBERS WHO PRACTICE OR RESIDE IN CARBON COUNTY AND ASSOCIATE MEMBERS WHO PRACTICE OR RESIDE OUTSIDE OF CARBON COUNTY BUT MAINTAIN AN INTEREST IN COURT AFFAIRS AND LEGAL MATTERS IN CARBON COUNTY. ASSOCIATE MEMBERS HAVE NO VOTING PRIVILEGES. ANNUAL MEMBERSHIP INCLUDES ACCESS TO CONFERENCES, CLE COURSES, SOCIAL EVENTS, TWO FREE COPIES OF THE LAW JOURNAL AND A DISCOUNT ON BAR ASSOCIATION DUES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Member election for additional members Part VI line 7a</FormAndLineReferenceDesc>
+        <ExplanationTxt>REGULAR MEMBERS IN GOOD STANDING AT THE TIME OF ELECTION OF OFFICERS ARE ALLOWED TO VOTE ON THE OFFICERS RUNNING FOR THAT OFFICE. ASSOCIATE MEMBERS DO NOT HAVE VOTING PRIVILEGES AND ARE INELIGBLE TO HOLD OFFICE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Governing body decisions Part VI line 7b</FormAndLineReferenceDesc>
+        <ExplanationTxt>MOTIONS THAT ARE PRESENTED ON THE FLOOR BY THE BOARD CAN BE VOTED ON BY THE REGULAR MEMBERSHIP THAT ARE IN GOOD STANDING AT THE TIME OF THE VOTE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Committee meeting documentation Part VI line 8b</FormAndLineReferenceDesc>
+        <ExplanationTxt>ANY AND ALL COMMITTEES FORMED BY THE BOARD DO NOT RETAIN FORMAL NOTES OF MEETINGS HELD. EACH COMMITTEE PRESENTS A REPORT WITH THEIR RECOMMENDATIONS TO THE BOARD OF DIRECTORS WHERE THE MEETING IS THEN FORMALLY RECORDED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990 governing body review Part VI line 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FORM 990 IS GIVEN TO BOARD MEMBERS AFTER SUBMISSION. A THIRD PARTY CPA FIRM IS RELIED ON TO PREPARE AND REVIEW THE 990 FOR ACCURACY AND THE BOARD PROVIDES AND VERIFIES ALL INFORMATION AND CLARIFICATION PRIOR TO COMPLETION AND FILING.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Governing documents etc available to public Part VI line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALL THE REQUIRED DOCUMENTS THAT ARE FOR PUBLIC INSPECTION ARE AVAILABLE UPON REQUEST AT THE ASSOCIATIONS MAIN OFFICE. THE RETURN IS AVAILABLE ON A THIRD PARTY WEBSITE: WWW.GUIDESTAR.ORG ONCE TRANSMITTED TO THE IRS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>List of other expenses Part IX line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>PROGRAM SERVICES:CONTINUING EDUCATION $ 918INTERNET AND WEBSITE 647MEMBERSHIP DUES 17,122CONTRIBUTIONS 16,121TELEPHONE 1,937REDACTION FEES 5,000BANK SERVICE CHARGES 807OUTSIDE SERVICES 95PRINTING AND POSTAGE 43,669LAW LIBRARY 3,600TOTAL $89,916 MANAGEMENT AND GENERAL:PROFESSIONAL FEES $4,129</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

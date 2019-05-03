@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-06-21T07:51:49-10:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>990191822</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GILBERT LEONG &amp; GREGORY LEE CPAS INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>841 BISHOP ST STE 2020</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>968133921</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>990305156</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>HAWAII OBSTETRICS AND GYNECOLOGY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>RESEARCH AND EDUCATION FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HAWA</BusinessNameControlTxt>
+      <PhoneNum>8082036576</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1319 PUNAHOU ST STE 824</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>96826</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>IVICA ZALUD MD</PersonNm>
+      <PersonTitleTxt>PRESIDENT/DIRECTOR</PersonTitleTxt>
+      <PhoneNum>8082036576</PhoneNum>
+      <SignatureDt>2017-06-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GREGORY H LEE</PreparerPersonNm>
+      <PTIN>P00074917</PTIN>
+      <PhoneNum>8085215051</PhoneNum>
+      <PreparationDt>2017-06-08</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <AtSubmissionCreationDeviceId>12C879E60986415CCC60CD9DE3F2212CFD7CB57A</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>88E6C52704A0CB4C6310E849D31D7DF419786074</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990 documentId="RetDoc1" referenceDocumentId="RetDoc3">
+      <PrincipalOfficerNm>IVICA ZALUD MD</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>1319 PUNAHOU ST STE 824</AddressLine1Txt>
+        <CityNm>HONOLULU</CityNm>
+        <StateAbbreviationCd>HI</StateAbbreviationCd>
+        <ZIPCd>96826</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>406806</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1993</FormationYr>
+      <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>PROVIDE SUPPORT AND ENHANCE MEDICAL EDUCATION, RESEARCH AND TRAINING OF THE RESIDENTS, FACULTY, MEDICAL STUDENTS OF THE UNIVERSITY OF HAWAII, JOHN A BURNS SCHOOL OF MEDICINE, DEPT OF OBSTETRICS, GYNECOLOGY AND WOMEN'S HEALTH</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>4</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>4</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <PYContributionsGrantsAmt>7250</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>500</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>20603</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>14209</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>49215</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>44701</CYInvestmentIncomeAmt>
+      <CYOtherRevenueAmt>0</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>77068</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>59410</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>88251</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>60340</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>88251</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>60340</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-11183</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-930</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>1508804</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>1533906</TotalAssetsEOYAmt>
+      <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>1508804</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>1533906</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>SUPPORT AND ENHANCE MEDICAL AND EDUCATIONAL TRAINING OF THE RESIDENTS, FACULTY MEMBERS, MEDICAL STUDENTS AND STAFF OF THE UNIVERSITY OF HAWAII, JOHN A. BURNS SCHOOL OF MEDICINE, DEPARTMENT OF OBSTETRICS, GYNECOLOGY AND WOMEN'S HEALTH.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>27575</ExpenseAmt>
+      <Desc>FUNDS USED TO SUBSIDIZE, RESIDENTS AND FACULTY DEVELOPMENT, RESEARCH AND TRAINING.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>12169</ExpenseAmt>
+        <RevenueAmt>14209</RevenueAmt>
+        <Desc>CONDUCTED "FAMILY PLANNING &amp; YOUR PATIENTS: NATIONAL PERSPECTIVE, LOCAL APPLICATION" CONTINUING MEDICAL EDUCATION CONFERENCE HELD DECEMBER 9, 2016 FOR MEDICAL RESIDENTS, STUDENTS AND STAFF OF THE UNIVERSITY OF HAWAII, JOHN A. BURNS SCHOOL OF MEDICINE AND OTHER MEDICAL PROFESSIONALS.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <TotalProgramServiceExpensesAmt>39744</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc4">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>false</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc2">false</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc2">false</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc2">false</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc2">false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="RetDoc2">false</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc2">false</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc2">true</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc2">false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc2">false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc2">false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc2">false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc2">false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc2">false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>false</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>false</ScheduleORequiredInd>
+      <InfoInScheduleOPartVInd>X</InfoInScheduleOPartVInd>
+      <IRPDocumentCnt>8</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>true</BackupWthldComplianceInd>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <GoverningBodyVotingMembersCnt>4</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>4</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>false</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>false</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>false</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>false</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>false</ConflictOfInterestPolicyInd>
+      <WhistleblowerPolicyInd>false</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>false</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>false</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>IVICA ZALUD MD</PersonNm>
+        <PhoneNum>8082036511</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>1319 PUNAHOU ST STE 824</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96826</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>IVICA ZALUD MD</PersonNm>
+        <TitleTxt>PRESIDENT/DI</TitleTxt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>TOD AEBY MD</PersonNm>
+        <TitleTxt>VICE-PRESIDE</TitleTxt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>THAO NGUYEN</PersonNm>
+        <TitleTxt>ASSISTANT TR</TitleTxt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KRISTEN CHUN</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <AllOtherContributionsAmt>500</AllOtherContributionsAmt>
+      <TotalContributionsAmt>500</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>MEDICAL CONFERENCE FEES</Desc>
+        <TotalRevenueColumnAmt>14209</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>14209</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>14209</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>45683</TotalRevenueColumnAmt>
+        <ExclusionAmt>45683</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>346414</SecuritiesAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>347396</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>-982</SecuritiesAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>-982</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>-982</RelatedOrExemptFuncIncomeAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>59410</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>13227</RelatedOrExemptFuncIncomeAmt>
+        <ExclusionAmt>45683</ExclusionAmt>
+      </TotalRevenueGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>866</TotalAmt>
+        <ManagementAndGeneralAmt>866</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>1571</TotalAmt>
+        <ManagementAndGeneralAmt>1571</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>8352</TotalAmt>
+        <ManagementAndGeneralAmt>8352</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>12169</TotalAmt>
+        <ProgramServicesAmt>12169</ProgramServicesAmt>
+      </ConferencesMeetingsGrp>
+      <InsuranceGrp>
+        <TotalAmt>941</TotalAmt>
+        <ManagementAndGeneralAmt>941</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>RESIDENTS EDUCATION &amp; DEV</Desc>
+        <TotalAmt>16629</TotalAmt>
+        <ProgramServicesAmt>16629</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>ADMINISTRATIVE EXPENSES</Desc>
+        <TotalAmt>8866</TotalAmt>
+        <ManagementAndGeneralAmt>8866</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>EQUIPMENT</Desc>
+        <TotalAmt>4755</TotalAmt>
+        <ProgramServicesAmt>4755</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>CONTINUING MED EDUCATION</Desc>
+        <TotalAmt>4491</TotalAmt>
+        <ProgramServicesAmt>4491</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>1700</TotalAmt>
+        <ProgramServicesAmt>1700</ProgramServicesAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>60340</TotalAmt>
+        <ProgramServicesAmt>39744</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>20596</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>4408</BOYAmt>
+        <EOYAmt>2130</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>57042</BOYAmt>
+        <EOYAmt>61906</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>534806</BOYAmt>
+        <EOYAmt>534075</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>912548</BOYAmt>
+        <EOYAmt>935795</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>1508804</BOYAmt>
+        <EOYAmt>1533906</EOYAmt>
+      </TotalAssetsGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>1508804</BOYAmt>
+        <EOYAmt>1533906</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>1508804</BOYAmt>
+        <EOYAmt>1533906</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>1508804</BOYAmt>
+        <EOYAmt>1533906</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>-930</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>26032</NetUnrlzdGainsLossesInvstAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>false</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc4">
+      <CollegeOrganizationInd>X</CollegeOrganizationInd>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>437</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>40</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>50500</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>7250</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>500</CurrentTaxYearAmt>
+        <TotalAmt>58727</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>437</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>40</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>50500</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>7250</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>500</CurrentTaxYearAmt>
+        <TotalAmt>58727</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <PublicSupportTotal170Amt>58727</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>53706</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>42918</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>45812</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>47634</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>45683</CurrentTaxYearAmt>
+        <TotalAmt>235753</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <TotalSupportAmt>294480</TotalSupportAmt>
+      <GrossReceiptsRltdActivitiesAmt>14209</GrossReceiptsRltdActivitiesAmt>
+      <PublicSupportCY170Pct>0.19940</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.21980</PublicSupportPY170Pct>
+      <TenPctFactsCrcmstncsTestCYInd>X</TenPctFactsCrcmstncsTestCYInd>
+      <TenPctFactsCrcmstncsTestPYInd>X</TenPctFactsCrcmstncsTestPYInd>
+      <FactsAndCircumstancesTestTxt>PART II, LINE 17A - 20% FACTS AND CIRCUMSTANCE TEST - 2016 THE ORGANIZATION IS PUBLICLY SUPPORTED EXCEPT FOR INCOME FROM INTEREST AND DIVIDENDS WHICH ARE USED TO FUND PROGRAM EXPENSES.</FactsAndCircumstancesTestTxt>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>PART II, LINE 17A</FormAndLineReferenceDesc>
+        <ExplanationTxt>PART II, LINE 17A - 20% FACTS AND CIRCUMSTANCE TEST - 2016 THE ORGANIZATION IS PUBLICLY SUPPORTED EXCEPT FOR INCOME FROM INTEREST AND DIVIDENDS WHICH ARE USED TO FUND PROGRAM EXPENSES.</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>PART II, LINE 17B</FormAndLineReferenceDesc>
+        <ExplanationTxt>PART II, LINE 17B - 10% FACTS AND CIRCUMSTANCE TEST - 2015 THE ORGANIZATION IS PUBLICLY SUPPORTED EXCEPT FOR INCOME FROM INTEREST AND DIVIDENDS WHICH ARE USED TO FUND PROGRAM EXPENSES</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc2">
+      <OtherSecuritiesGrp>
+        <Desc>EQUITY MUTUAL FUNDS</Desc>
+        <BookValueAmt>556953</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>U S TREASURY OBLIGATIONS</Desc>
+        <BookValueAmt>280597</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>U S GOVERNMENT AGENCIES</Desc>
+        <BookValueAmt>98245</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <TotalBookValueSecuritiesAmt>935795</TotalBookValueSecuritiesAmt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc3">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990 - ORGANIZATION'S MISSION</FormAndLineReferenceDesc>
+        <ExplanationTxt>SUPPORT AND ENHANCE MEDICAL AND EDUCATIONAL TRAINING OF THE RESIDENTS, FACULTY MEMBERS, MEDICAL STUDENTS AND STAFF OF THE UNIVERSITY OF HAWAII, JOHN A. BURNS SCHOOL OF MEDICINE, DEPARTMENT OF OBSTETRICS, GYNECOLOGY AND WOMEN'S HEALTH.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 5, PART V, LINE 3B</FormAndLineReferenceDesc>
+        <ExplanationTxt>NO REPORTABLE INCOME</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>NO REVIEW WAS OR WILL BE CONDUCTED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>NO DOCUMENTS AVAILABLE TO THE PUBLIC</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

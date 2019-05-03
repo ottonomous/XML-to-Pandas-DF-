@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-06-21T14:34:32-04:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>020720931</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Mark A Kilburn CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>938 Forest Avenue</AddressLine1Txt>
+        <CityNm>Portland</CityNm>
+        <StateAbbreviationCd>ME</StateAbbreviationCd>
+        <ZIPCd>04103</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>010458555</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Scarborough Fish &amp; Game Association</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SCAR</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>PO Box 952</AddressLine1Txt>
+        <CityNm>Scarborough</CityNm>
+        <StateAbbreviationCd>ME</StateAbbreviationCd>
+        <ZIPCd>040700952</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Mark A Kilburn</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <PhoneNum>2074153887</PhoneNum>
+      <SignatureDt>2017-05-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Mark A Kilburn</PreparerPersonNm>
+      <PTIN>P01743421</PTIN>
+      <PhoneNum>2074153887</PhoneNum>
+      <PreparationDt>2017-06-21</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>98.2.235.18</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2017-06-21</IPDt>
+      <IPTm>14:54:02</IPTm>
+      <FederalOriginalSubmissionId>0118822017172vx0bk0p</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2017-06-21</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>BAD434B0E75D7059A5E85377577854FE3A413333</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>BAD434B0E75D7059A5E85377577854FE3A413333</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990 documentId="IRS990">
+      <GrossReceiptsAmt>649724</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501cInd organization501cTypeTxt="7">X</Organization501cInd>
+      <WebsiteAddressTxt>www.scarfg.org</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1959</FormationYr>
+      <LegalDomicileStateCd>ME</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>Fire Arm Safety &amp; Conservation</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>1115</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>1115</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalVolunteersCnt>100</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>380</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>138314</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>198324</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>30166</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>20564</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>130</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>231</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>418588</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>430195</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>587198</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>649314</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>544826</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>539394</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>544826</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>539394</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>42372</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>109920</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>473599</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>583519</TotalAssetsEOYAmt>
+      <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>473599</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>583519</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>Fire Arm Safety &amp; Conservation</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>539394</ExpenseAmt>
+      <Desc>Teaching firearm safety to all members and the public.Training for law enforcement and military.</Desc>
+      <TotalProgramServiceExpensesAmt>539394</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind>false</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>false</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="990D">true</ConservationEasementsInd>
+      <CollectionsOfArtInd>false</CollectionsOfArtInd>
+      <CreditCounselingInd>false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd>false</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="990D">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd>false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd>false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd>false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd>false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd>false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd>false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd>false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>false</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>true</Form990TFiledInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>false</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <InitiationFeesAndCapContriAmt>0</InitiationFeesAndCapContriAmt>
+      <GrossReceiptsForPublicUseAmt>0</GrossReceiptsForPublicUseAmt>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>1115</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>1115</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>true</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>true</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>true</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>false</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>false</ConflictOfInterestPolicyInd>
+      <WhistleblowerPolicyInd>false</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>false</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>false</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>ME</StatesWhereCopyOfReturnIsFldCd>
+      <OwnWebsiteInd>X</OwnWebsiteInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Mark A Kilburn</PersonNm>
+        <PhoneNum>2074153887</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>PO Box 952</AddressLine1Txt>
+          <CityNm>Scarborough</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>040700952</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Mark A Kilburn</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Michael Kane</PersonNm>
+        <TitleTxt>President</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Jayne Flanagan</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <MembershipDuesAmt>198075</MembershipDuesAmt>
+      <AllOtherContributionsAmt>249</AllOtherContributionsAmt>
+      <TotalContributionsAmt>198324</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>Hunter Safety</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>84</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>84</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>Conservation Camp</Desc>
+        <BusinessCd>900099</BusinessCd>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>Rentals</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>13554</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>13554</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>Training</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>6926</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>6926</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>20564</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>231</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>231</RelatedOrExemptFuncIncomeAmt>
+      </InvestmentIncomeGrp>
+      <FundraisingGrossIncomeAmt>790</FundraisingGrossIncomeAmt>
+      <FundraisingDirectExpensesAmt>410</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>380</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>380</UnrelatedBusinessRevenueAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Trap</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>80486</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>80486</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Sporting Clays</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>281705</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>281705</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Pistol</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>47585</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>47585</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <MiscellaneousRevenueGrp>
+        <TotalRevenueColumnAmt>20039</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>20039</RelatedOrExemptFuncIncomeAmt>
+      </MiscellaneousRevenueGrp>
+      <OtherRevenueTotalAmt>429815</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>649314</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>450610</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>380</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>0</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>500</TotalAmt>
+        <ProgramServicesAmt>500</ProgramServicesAmt>
+      </FeesForServicesAccountingGrp>
+      <AdvertisingGrp>
+        <TotalAmt>4326</TotalAmt>
+        <ProgramServicesAmt>4326</ProgramServicesAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>3096</TotalAmt>
+        <ProgramServicesAmt>3096</ProgramServicesAmt>
+      </OfficeExpensesGrp>
+      <OccupancyGrp>
+        <TotalAmt>24681</TotalAmt>
+        <ProgramServicesAmt>24681</ProgramServicesAmt>
+      </OccupancyGrp>
+      <InsuranceGrp>
+        <TotalAmt>15761</TotalAmt>
+        <ProgramServicesAmt>15761</ProgramServicesAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>Maintenance</Desc>
+        <TotalAmt>52486</TotalAmt>
+        <ProgramServicesAmt>52486</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Youth Training</Desc>
+        <TotalAmt>5658</TotalAmt>
+        <ProgramServicesAmt>5658</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Bank Charges</Desc>
+        <TotalAmt>2950</TotalAmt>
+        <ProgramServicesAmt>2950</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Utilities</Desc>
+        <TotalAmt>20252</TotalAmt>
+        <ProgramServicesAmt>20252</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>409684</TotalAmt>
+        <ProgramServicesAmt>409684</ProgramServicesAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>539394</TotalAmt>
+        <ProgramServicesAmt>539394</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>0</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>201375</BOYAmt>
+        <EOYAmt>191064</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>130325</BOYAmt>
+        <EOYAmt>250556</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <LandBldgEquipCostOrOtherBssAmt>141899</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>141899</BOYAmt>
+        <EOYAmt>141899</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>473599</BOYAmt>
+        <EOYAmt>583519</EOYAmt>
+      </TotalAssetsGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+      <RtnEarnEndowmentIncmOthFndsGrp>
+        <BOYAmt>473599</BOYAmt>
+        <EOYAmt>583519</EOYAmt>
+      </RtnEarnEndowmentIncmOthFndsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>473599</BOYAmt>
+        <EOYAmt>583519</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>473599</BOYAmt>
+        <EOYAmt>583519</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>109920</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>false</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleD documentId="990D">
+      <ProtectionNaturalHabitatInd>X</ProtectionNaturalHabitatInd>
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>141899</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>141899</BookValueAmt>
+      </LandGrp>
+      <TotalBookValueLandBuildingsAmt>141899</TotalBookValueLandBuildingsAmt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="990O">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Members or stockholder classes and rights Part VI line 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>Members</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Member election for additional members Part VI line 7a</FormAndLineReferenceDesc>
+        <ExplanationTxt>Members elect Board of Directors</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Governing body decisions Part VI line 7b</FormAndLineReferenceDesc>
+        <ExplanationTxt>Members have final approval</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Committee meeting documentation Part VI line 8b</FormAndLineReferenceDesc>
+        <ExplanationTxt>No minutes of Discipline Meetings</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990 governing body review Part VI line 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>Reviewed by the Treasurer</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990 availability to public Part VI line 18</FormAndLineReferenceDesc>
+        <ExplanationTxt>On the Internet Website</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Governing documents etc available to public Part VI line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>Document available on club internet website</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>List of other expenses Part IX line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Education 6,488Ballistic Sand 13,098DEP permit 7,818Equipment 107,954Donations 8,403Cameras 300Cable 498Pistol range 4,935All other 205,755</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>
